@@ -6,6 +6,7 @@ To implement gesture recognition in JavaScript, you can use various libraries an
 
 For instance, with Hammer.js, you might set up event listeners for specific gestures like tap, swipe, pinch, or rotate. When the user performs these actions on the specified elements, corresponding JavaScript functions can be triggered to execute specific tasks or behaviors within the web application.
 
-
+SINGLE HAND GESTURE = ✌️ ||  🖐  || ✊️
+MULTIPLE HAND GESTURE = 🙅
 
 ![Screenshot 2023-11-25 152024](https://github.com/AkshatCodeVortex/Gesture-Recognizer/assets/96902325/2c310f24-0257-4edf-926e-2b8b6d7d4480)
